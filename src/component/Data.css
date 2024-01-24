@@ -1,0 +1,8 @@
+.remove{
+    background-color: red;
+    border-radius: 5px;
+    width: 100px;
+}
+.row{
+    margin: 10px;
+}
